@@ -1,6 +1,13 @@
 # IOT
 
+The ESP32 algorithm and its features and benefits mission link:
+https://github.com/Asma-Ahmed-Aqil-AL-Zubaidi/ESP32
+
+Javascript converts audio to text mission link:
 https://github.com/Asma-Ahmed-Aqil-AL-Zubaidi/Convert-audio-to-text-with-javascript
+
+
+
 
 
 javascript code convert audio to text &amp;An algorithm that teaches you how to program the ESP32 segment &amp;Features of the ESP32 part
